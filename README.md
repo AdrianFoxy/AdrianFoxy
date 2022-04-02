@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdrianFoxy
-- 👀 I’m interested in ...
+- 👀 I’m interested in code
 - 🌱 I’m currently learning asp.net
-- 💞️ I’m looking to collaborate on best
-- 📫 How to reach me ...
+- - You can find me on telegram @Dr_Adrian
+
 
 <!---
 AdrianFoxy/AdrianFoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
