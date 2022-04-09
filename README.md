@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AdrianFoxy
-- 👀 I’m interested in code
-- 🌱 I’m currently learning asp.net
+- 👋 Hi, I’m @Adrian
 - - You can find me on telegram @Dr_Adrian
 
 
