@@ -14,6 +14,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianFoxy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianFoxy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -22,10 +24,6 @@
 ###
 
 <h2 align="left">Skills and tools</h2>
-
-###
-
-<img align="right" height="200" src="https://64.media.tumblr.com/e4032dd139cb3657c13c1cd52eb7b533/tumblr_pfmtvw7fYU1wn2b96o1_500.gif"  />
 
 ###
 
@@ -53,6 +51,14 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/e4032dd139cb3657c13c1cd52eb7b533/tumblr_pfmtvw7fYU1wn2b96o1_500.gif"  />
 </div>
 
 ###
