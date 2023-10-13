@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! My name is Adrian, I`m passionate backend develop from Ukraine.</h2>
+<h2 align="center">Hi there! My name is Adrian, I`m passionate backend developer from Ukraine.</h2>
 
 ###
 
