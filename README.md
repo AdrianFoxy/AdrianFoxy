@@ -57,7 +57,4 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-
 <br clear="both">
-###
