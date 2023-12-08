@@ -60,9 +60,4 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/e4032dd139cb3657c13c1cd52eb7b533/tumblr_pfmtvw7fYU1wn2b96o1_500.gif"  />
-</div>
-
 ###
