@@ -2,22 +2,30 @@
 
 ###
 
-<p align="justify">✨ My name is Adrian, I'm a passionate .NET developer. <br>📚 Now I'm navigating the world of web development with ASP.NET and Angular. <br>🎯 Constantly growing and evolving, I am actively seeking opportunities to collaborate on interesting projects, learn from experienced developers, and contribute to the thriving developer community.</p>
+<br clear="both">
+
+<img align="right" height="200" src="https://64.media.tumblr.com/8be17ac4f09a8a1af1cd73a23b07abcb/tumblr_mgcz6kcBTE1rvkw6no1_500.gif"  />
 
 ###
 
-<div align="left">
+<p align="left">✨ My name is Adrian, I'm a passionate .NET developer. Aspires to become an experienced developer.<br>📚 Now I'm navigating the world of web development with ASP.NET and Angular. <br>🎯 Constantly growing and evolving, I am actively seeking opportunities to collaborate on interesting projects, learn from experienced developers, and contribute to the thriving developer community.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianFoxy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianFoxy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Skills and tools</h2>
+<h2 align="center">Skills and tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
@@ -51,7 +59,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img height="200" src="https://64.media.tumblr.com/8be17ac4f09a8a1af1cd73a23b07abcb/tumblr_mgcz6kcBTE1rvkw6no1_500.gif"  />
-</div>
