@@ -1,7 +1,5 @@
 <h1 align="left">Fancy seeing you here👋</h1>
 
-<br clear="both">
-
 <img align="right" height="200" src="https://64.media.tumblr.com/8be17ac4f09a8a1af1cd73a23b07abcb/tumblr_mgcz6kcBTE1rvkw6no1_500.gif"  />
 
 ###
