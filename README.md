@@ -1,7 +1,5 @@
 <h1 align="left">Fancy seeing you here👋</h1>
 
-<img align="right" height="200" src="https://64.media.tumblr.com/8be17ac4f09a8a1af1cd73a23b07abcb/tumblr_mgcz6kcBTE1rvkw6no1_500.gif"  />
-
 ###
 
 <p align="left">✨ My name is Adrian, I'm a passionate .NET developer. Aspires to become an experienced developer.<br>📚 Now I'm navigating the world of web development with ASP.NET and Angular. <br>🎯 Constantly growing and evolving, I am actively seeking opportunities to collaborate on interesting projects, learn from experienced developers, and contribute to the thriving developer community.</p>
@@ -51,7 +49,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/8be17ac4f09a8a1af1cd73a23b07abcb/tumblr_mgcz6kcBTE1rvkw6no1_500.gif"  />
 </div>
 
 ###
