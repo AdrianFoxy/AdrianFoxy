@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/l0HlUvsXh3w7w2PUk/giphy.gif?cid=ecf05e47at10scc894aiemckx7xgmhl9xtd5hibeuxesn69p&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <p align="left">✨ My name is Adrian, I'm a passionate .NET developer. <br>📚 Now I'm navigating the world of web development with ASP.NET and Angular. <br>🎯 Constantly growing and evolving, I am actively seeking opportunities to collaborate on interesting projects, learn from experienced developers, and contribute to the thriving developer community.</p>
 
 ###
