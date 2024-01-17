@@ -21,11 +21,11 @@
 
 ###
 
-<h2 align="center">Skills and tools</h2>
+<h2 align="left">Skills and tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
